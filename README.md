@@ -1,6 +1,7 @@
 # Byte Engine
-  Team members :<br/>
-        1.Sravya Mareedu 
+  Team members :
+  <br/>
+        1.Sravya Mareedu<br/>
         2.Hitesh Atluri <br/>
         3.Monisha Ramu <br/>
         4.Sai Tharun Reddy Garlapati <br/>
