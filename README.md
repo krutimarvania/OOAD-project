@@ -1,13 +1,13 @@
 # Byte Engine
   Team members :
-        Sravya Mareedu - sxm210171
-        Hitesh Atluri - hxa210029
-        Monisha Ramu - mxr210061
-        Sai Tharun Reddy Garlapati -  sxg210161
-        Tathya Thaker - txt200018
-        Dhruvi Sonani - dxs210030
-        Parth Sabhadiya-  pxs210002
-        Kruti Marvania - kxm200051
+        .Sravya Mareedu - sxm210171
+        .Hitesh Atluri - hxa210029
+        .Monisha Ramu - mxr210061
+        .Sai Tharun Reddy Garlapati -  sxg210161
+        .Tathya Thaker - txt200018
+        .Dhruvi Sonani - dxs210030
+        .Parth Sabhadiya-  pxs210002
+        .Kruti Marvania - kxm200051
 
 
 Steps to run Frontend code:
