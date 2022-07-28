@@ -41,7 +41,7 @@ Steps to add/merge changes:
     git push --set-upstream origin <your_branch_name>
     ```
 
-5. Upon all changes are committed and pushed, go to the github page https://github.com/Rainam98/CyberMiner and raise pull request for code review:
+5. Upon all changes are committed and pushed, go to the github page and raise pull request for code review:
     - Click on "Pull requests" tab
     - Click on "New pull request" button
     - On the Compare changes page, make sure the base branch is master and compared branch is your own branch
