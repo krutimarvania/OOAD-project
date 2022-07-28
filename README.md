@@ -1,15 +1,13 @@
-# CyberMiner
-Team members added 
- - Rainam Shah
- - Dhyani Gandhi
- - Dharav Bhatt
- - Akash Karuturi
- - Rohith Jallipalli
- - Yasaswi Devi Tiyyagura
- - Poojitha Bijjam
- - Rutvik Avaiya
- - Chenyue Li
- - Yang Yang
+# Byte Engine
+  Team members :
+        Sravya Mareedu - sxm210171
+        Hitesh Atluri - hxa210029
+        Monisha Ramu - mxr210061
+        Sai Tharun Reddy Garlapati -  sxg210161
+        Tathya Thaker - txt200018
+        Dhruvi Sonani - dxs210030
+        Parth Sabhadiya-  pxs210002
+        Kruti Marvania - kxm200051
 
 
 Steps to run Frontend code:
@@ -49,8 +47,6 @@ Steps to add/merge changes:
     - Click on "New pull request" button
     - Edit title and description of the pull request to specify the changes/features you added
     - Assign reviewer to review the pull request on the side bar
-        - Frontend code reviewer: Rainam
-        - Backend code reviewer: Poojitha
     - Click on "Create pull request" button to submit
 6. Code reviewer will review the changes. Once approved, the pull request will be resolved and changes will be merged into master branch
 
