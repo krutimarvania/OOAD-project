@@ -1,13 +1,13 @@
 # Byte Engine
   Team members :
-        1.Sravya Mareedu  
-        2.Hitesh Atluri 
-        3.Monisha Ramu 
-        4.Sai Tharun Reddy Garlapati 
-        5.Tathya Thaker
-        6.Dhruvi Sonani 
+        1.Sravya Mareedu<br/>  
+        2.Hitesh Atluri <br/>
+        3.Monisha Ramu <br/>
+        4.Sai Tharun Reddy Garlapati <br/>
+        5.Tathya Thaker<br/>
+        6.Dhruvi Sonani <br/>
         7.Parth Sabhadiya<br/>
-        8.Kruti Marvania 
+        8.Kruti Marvania <br/>
 
 
 Steps to run Frontend code:
