@@ -1,0 +1,40 @@
+.d-flex div{
+    margin-right: 15px;
+}
+
+.form-control{
+    width: auto;
+}
+
+.title{
+        text-align: center;
+    color: #7794b5;
+}
+
+.custom{
+    margin-right: 15px;
+    width: 50%;
+}
+
+iframe{
+    width: 100%;
+    height: 100%;
+    
+}
+
+
+.google_bing{
+    width: 50%;
+}
+
+.google_bing div{
+    height: 100%;
+}
+
+.option{
+    justify-content: space-around;
+}
+
+#query{
+    visibility: hidden;
+}
